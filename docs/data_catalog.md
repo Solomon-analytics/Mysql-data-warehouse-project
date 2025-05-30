@@ -9,7 +9,7 @@ tables and fact tables for specific business metrics.
 - **purpose:** Stores customer details enriched with demographic and geographic data.
 
 
-**Columns:**
+- **Columns:**
 
 |   Column Name         |    Data Type              |                                     Description                                        |
 |-----------------------|---------------------------|----------------------------------------------------------------------------------------|
@@ -29,7 +29,7 @@ tables and fact tables for specific business metrics.
 ## 2. gold.product_dim
 - **purpose:** Provides information about the products and their attributes.
 
-**Columns:**
+- **Columns:**
 
 |   Column Name         |    Data Type              |                                     Description                                            |
 |-----------------------|---------------------------|--------------------------------------------------------------------------------------------|
