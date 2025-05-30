@@ -7,6 +7,7 @@ tables and fact tables for specific business metrics.
 
 ## 1. gold.dim_customers
 Purpose: Stores customer details enriched with demographic and geographic data.
+##
 Columns:
 
 |   Column Name         |    Data Type              |                                     Description                                        |
